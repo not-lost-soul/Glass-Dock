@@ -1,0 +1,1 @@
+# GlassDock apps — intentionally empty on first run. Add your own apps, files or folders from Settings.
