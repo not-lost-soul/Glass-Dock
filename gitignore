@@ -1,0 +1,20 @@
+# Build output
+GlassDock.exe
+*.pdb
+*.exe.config
+
+# Runtime data (user-specific)
+settings.ini
+apps.txt
+tray.txt
+notes.txt
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.user
+.vs/
+.idea/
+*.suo
+*.userprefs
